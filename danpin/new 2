@@ -1,0 +1,7 @@
+pyinstaller -i copy.ico -F oneKeyCopy.py
+python build_pyd.py build_ext --inplace
+
+小baby
+https://eco.m.jd.com/content/dr_home/index.html?authorId=522915
+家电大大咖
+https://eco.m.jd.com/content/dr_home/index.html?authorId=528614
